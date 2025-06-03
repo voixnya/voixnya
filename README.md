@@ -7,4 +7,4 @@ I'm a computer science student who is passionate about writing code, solving pro
 - 🔭 I’m currently a CS student.
 - 📚 I’m currently learning  backend web development using NodeJS, ExpressJS and MongoDB.
 - 👯 I’m looking for a software development internship.
-- 📫 How to reach me: [Outlook](mailto:voixnya@outlook.com)
+- 📫 How to reach me: [Outlook](mailto:"voixnya"<voixnya@outlook.com>)
